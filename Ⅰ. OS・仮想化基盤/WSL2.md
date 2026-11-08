@@ -1,7 +1,6 @@
 ---
 created: 2026-10-27
 tags:
-  - ProcedureManual-WSL2
   - WSL2
 ---
 ## 0. コマンドプロンプトの起動

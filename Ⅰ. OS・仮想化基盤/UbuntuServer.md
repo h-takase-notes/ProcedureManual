@@ -1,7 +1,9 @@
 ---
 created: 2026-10-27
 tags:
-  - ProcedureManual-UbuntuServer
+  - UbuntuServer
+type: ProcedureManual
+category:
   - UbuntuServer
 ---
 ## 0.ダウンロード・準備
